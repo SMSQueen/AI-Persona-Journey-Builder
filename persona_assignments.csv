@@ -1,0 +1,2501 @@
+customer_id,persona
+1,Category Explorer
+2,Ingredient-Conscious
+3,Casual Browser
+4,Reviewer / Researcher
+5,Routine Replenisher
+6,Deal Hunter
+7,Ingredient-Conscious
+8,Lapsed / Winback
+9,Casual Browser
+10,Deal Hunter
+11,Casual Browser
+12,Routine Replenisher
+13,Deal Hunter
+14,Category Explorer
+15,Category Explorer
+16,Reviewer / Researcher
+17,Routine Replenisher
+18,Routine Replenisher
+19,Lapsed / Winback
+20,Routine Replenisher
+21,Routine Replenisher
+22,Ingredient-Conscious
+23,Deal Hunter
+24,Lapsed / Winback
+25,Category Explorer
+26,Deal Hunter
+27,Ingredient-Conscious
+28,Routine Replenisher
+29,Casual Browser
+30,Deal Hunter
+31,Routine Replenisher
+32,Reviewer / Researcher
+33,Ingredient-Conscious
+34,Routine Replenisher
+35,Casual Browser
+36,Deal Hunter
+37,Routine Replenisher
+38,Casual Browser
+39,Casual Browser
+40,Category Explorer
+41,Ingredient-Conscious
+42,Casual Browser
+43,Category Explorer
+44,Casual Browser
+45,Casual Browser
+46,Reviewer / Researcher
+47,Routine Replenisher
+48,Reviewer / Researcher
+49,Category Explorer
+50,Casual Browser
+51,Ingredient-Conscious
+52,Deal Hunter
+53,Category Explorer
+54,Casual Browser
+55,Category Explorer
+56,Premium Power Shopper
+57,Routine Replenisher
+58,Reviewer / Researcher
+59,Deal Hunter
+60,Routine Replenisher
+61,Casual Browser
+62,Routine Replenisher
+63,Reviewer / Researcher
+64,Reviewer / Researcher
+65,Category Explorer
+66,Routine Replenisher
+67,Casual Browser
+68,Casual Browser
+69,Ingredient-Conscious
+70,Casual Browser
+71,Ingredient-Conscious
+72,Deal Hunter
+73,Casual Browser
+74,Routine Replenisher
+75,Casual Browser
+76,Deal Hunter
+77,Category Explorer
+78,Category Explorer
+79,Deal Hunter
+80,Routine Replenisher
+81,Premium Power Shopper
+82,Deal Hunter
+83,Category Explorer
+84,Premium Power Shopper
+85,Lapsed / Winback
+86,Lapsed / Winback
+87,Category Explorer
+88,Premium Power Shopper
+89,Routine Replenisher
+90,Casual Browser
+91,Deal Hunter
+92,Routine Replenisher
+93,Deal Hunter
+94,Casual Browser
+95,Routine Replenisher
+96,Brand Loyalist
+97,Deal Hunter
+98,Routine Replenisher
+99,Category Explorer
+100,Premium Power Shopper
+101,Category Explorer
+102,Category Explorer
+103,Deal Hunter
+104,Routine Replenisher
+105,Deal Hunter
+106,Routine Replenisher
+107,Casual Browser
+108,Deal Hunter
+109,Routine Replenisher
+110,Routine Replenisher
+111,Casual Browser
+112,Casual Browser
+113,Routine Replenisher
+114,Category Explorer
+115,Ingredient-Conscious
+116,Category Explorer
+117,Ingredient-Conscious
+118,Casual Browser
+119,Reviewer / Researcher
+120,Lapsed / Winback
+121,Ingredient-Conscious
+122,Category Explorer
+123,Routine Replenisher
+124,Routine Replenisher
+125,Category Explorer
+126,Ingredient-Conscious
+127,Ingredient-Conscious
+128,Deal Hunter
+129,Category Explorer
+130,Casual Browser
+131,Category Explorer
+132,Lapsed / Winback
+133,Casual Browser
+134,Casual Browser
+135,Deal Hunter
+136,Casual Browser
+137,Lapsed / Winback
+138,Deal Hunter
+139,Category Explorer
+140,Ingredient-Conscious
+141,Lapsed / Winback
+142,Casual Browser
+143,Casual Browser
+144,Casual Browser
+145,Deal Hunter
+146,Ingredient-Conscious
+147,Reviewer / Researcher
+148,Category Explorer
+149,Casual Browser
+150,Brand Loyalist
+151,Category Explorer
+152,Category Explorer
+153,Routine Replenisher
+154,Premium Power Shopper
+155,Routine Replenisher
+156,Category Explorer
+157,Deal Hunter
+158,Routine Replenisher
+159,Ingredient-Conscious
+160,Reviewer / Researcher
+161,Reviewer / Researcher
+162,Lapsed / Winback
+163,Category Explorer
+164,Ingredient-Conscious
+165,Deal Hunter
+166,Routine Replenisher
+167,Casual Browser
+168,Casual Browser
+169,Casual Browser
+170,Reviewer / Researcher
+171,Reviewer / Researcher
+172,Category Explorer
+173,Category Explorer
+174,Casual Browser
+175,Deal Hunter
+176,Ingredient-Conscious
+177,Deal Hunter
+178,Casual Browser
+179,Lapsed / Winback
+180,Casual Browser
+181,Deal Hunter
+182,Casual Browser
+183,Category Explorer
+184,Category Explorer
+185,Routine Replenisher
+186,Category Explorer
+187,Routine Replenisher
+188,Deal Hunter
+189,Ingredient-Conscious
+190,Deal Hunter
+191,Ingredient-Conscious
+192,Casual Browser
+193,Category Explorer
+194,Casual Browser
+195,Deal Hunter
+196,Category Explorer
+197,Deal Hunter
+198,Deal Hunter
+199,Deal Hunter
+200,Routine Replenisher
+201,Deal Hunter
+202,Deal Hunter
+203,Lapsed / Winback
+204,Routine Replenisher
+205,Casual Browser
+206,Deal Hunter
+207,Routine Replenisher
+208,Casual Browser
+209,Routine Replenisher
+210,Category Explorer
+211,Deal Hunter
+212,Lapsed / Winback
+213,Routine Replenisher
+214,Lapsed / Winback
+215,Routine Replenisher
+216,Casual Browser
+217,Deal Hunter
+218,Casual Browser
+219,Category Explorer
+220,Routine Replenisher
+221,Casual Browser
+222,Deal Hunter
+223,Reviewer / Researcher
+224,Ingredient-Conscious
+225,Ingredient-Conscious
+226,Ingredient-Conscious
+227,Deal Hunter
+228,Category Explorer
+229,Category Explorer
+230,Casual Browser
+231,Deal Hunter
+232,Category Explorer
+233,Casual Browser
+234,Deal Hunter
+235,Routine Replenisher
+236,Lapsed / Winback
+237,Deal Hunter
+238,Category Explorer
+239,Category Explorer
+240,Category Explorer
+241,Ingredient-Conscious
+242,Casual Browser
+243,Routine Replenisher
+244,Ingredient-Conscious
+245,Lapsed / Winback
+246,Category Explorer
+247,Deal Hunter
+248,Casual Browser
+249,Routine Replenisher
+250,Reviewer / Researcher
+251,Casual Browser
+252,Casual Browser
+253,Lapsed / Winback
+254,Casual Browser
+255,Routine Replenisher
+256,Casual Browser
+257,Reviewer / Researcher
+258,Category Explorer
+259,Category Explorer
+260,Casual Browser
+261,Casual Browser
+262,Category Explorer
+263,Category Explorer
+264,Casual Browser
+265,Routine Replenisher
+266,Casual Browser
+267,Casual Browser
+268,Routine Replenisher
+269,Lapsed / Winback
+270,Routine Replenisher
+271,Casual Browser
+272,Deal Hunter
+273,Routine Replenisher
+274,Ingredient-Conscious
+275,Premium Power Shopper
+276,Routine Replenisher
+277,Routine Replenisher
+278,Reviewer / Researcher
+279,Category Explorer
+280,Category Explorer
+281,Reviewer / Researcher
+282,Casual Browser
+283,Deal Hunter
+284,Deal Hunter
+285,Deal Hunter
+286,Reviewer / Researcher
+287,Category Explorer
+288,Category Explorer
+289,Casual Browser
+290,Deal Hunter
+291,Casual Browser
+292,Category Explorer
+293,Casual Browser
+294,Lapsed / Winback
+295,Ingredient-Conscious
+296,Routine Replenisher
+297,Deal Hunter
+298,Deal Hunter
+299,Deal Hunter
+300,Category Explorer
+301,Category Explorer
+302,Routine Replenisher
+303,Reviewer / Researcher
+304,Deal Hunter
+305,Ingredient-Conscious
+306,Casual Browser
+307,Casual Browser
+308,Deal Hunter
+309,Reviewer / Researcher
+310,Reviewer / Researcher
+311,Category Explorer
+312,Reviewer / Researcher
+313,Ingredient-Conscious
+314,Casual Browser
+315,Routine Replenisher
+316,Category Explorer
+317,Routine Replenisher
+318,Reviewer / Researcher
+319,Deal Hunter
+320,Ingredient-Conscious
+321,Category Explorer
+322,Lapsed / Winback
+323,Casual Browser
+324,Category Explorer
+325,Casual Browser
+326,Routine Replenisher
+327,Routine Replenisher
+328,Routine Replenisher
+329,Casual Browser
+330,Category Explorer
+331,Category Explorer
+332,Casual Browser
+333,Routine Replenisher
+334,Deal Hunter
+335,Casual Browser
+336,Reviewer / Researcher
+337,Reviewer / Researcher
+338,Casual Browser
+339,Routine Replenisher
+340,Category Explorer
+341,Casual Browser
+342,Reviewer / Researcher
+343,Deal Hunter
+344,Casual Browser
+345,Premium Power Shopper
+346,Routine Replenisher
+347,Deal Hunter
+348,Ingredient-Conscious
+349,Casual Browser
+350,Casual Browser
+351,Routine Replenisher
+352,Lapsed / Winback
+353,Casual Browser
+354,Casual Browser
+355,Deal Hunter
+356,Routine Replenisher
+357,Category Explorer
+358,Routine Replenisher
+359,Deal Hunter
+360,Lapsed / Winback
+361,Deal Hunter
+362,Routine Replenisher
+363,Ingredient-Conscious
+364,Ingredient-Conscious
+365,Routine Replenisher
+366,Routine Replenisher
+367,Reviewer / Researcher
+368,Deal Hunter
+369,Routine Replenisher
+370,Category Explorer
+371,Casual Browser
+372,Ingredient-Conscious
+373,Deal Hunter
+374,Casual Browser
+375,Routine Replenisher
+376,Routine Replenisher
+377,Deal Hunter
+378,Deal Hunter
+379,Deal Hunter
+380,Routine Replenisher
+381,Category Explorer
+382,Casual Browser
+383,Category Explorer
+384,Reviewer / Researcher
+385,Routine Replenisher
+386,Casual Browser
+387,Deal Hunter
+388,Casual Browser
+389,Casual Browser
+390,Casual Browser
+391,Routine Replenisher
+392,Deal Hunter
+393,Routine Replenisher
+394,Casual Browser
+395,Deal Hunter
+396,Reviewer / Researcher
+397,Routine Replenisher
+398,Deal Hunter
+399,Category Explorer
+400,Lapsed / Winback
+401,Routine Replenisher
+402,Routine Replenisher
+403,Casual Browser
+404,Routine Replenisher
+405,Casual Browser
+406,Casual Browser
+407,Brand Loyalist
+408,Lapsed / Winback
+409,Casual Browser
+410,Deal Hunter
+411,Casual Browser
+412,Reviewer / Researcher
+413,Reviewer / Researcher
+414,Deal Hunter
+415,Casual Browser
+416,Ingredient-Conscious
+417,Reviewer / Researcher
+418,Deal Hunter
+419,Reviewer / Researcher
+420,Lapsed / Winback
+421,Deal Hunter
+422,Casual Browser
+423,Casual Browser
+424,Routine Replenisher
+425,Reviewer / Researcher
+426,Casual Browser
+427,Casual Browser
+428,Routine Replenisher
+429,Deal Hunter
+430,Ingredient-Conscious
+431,Casual Browser
+432,Reviewer / Researcher
+433,Routine Replenisher
+434,Casual Browser
+435,Casual Browser
+436,Ingredient-Conscious
+437,Lapsed / Winback
+438,Routine Replenisher
+439,Category Explorer
+440,Deal Hunter
+441,Routine Replenisher
+442,Routine Replenisher
+443,Casual Browser
+444,Casual Browser
+445,Ingredient-Conscious
+446,Reviewer / Researcher
+447,Lapsed / Winback
+448,Category Explorer
+449,Routine Replenisher
+450,Reviewer / Researcher
+451,Deal Hunter
+452,Reviewer / Researcher
+453,Deal Hunter
+454,Category Explorer
+455,Lapsed / Winback
+456,Casual Browser
+457,Category Explorer
+458,Routine Replenisher
+459,Routine Replenisher
+460,Deal Hunter
+461,Casual Browser
+462,Routine Replenisher
+463,Casual Browser
+464,Lapsed / Winback
+465,Deal Hunter
+466,Casual Browser
+467,Ingredient-Conscious
+468,Routine Replenisher
+469,Lapsed / Winback
+470,Reviewer / Researcher
+471,Casual Browser
+472,Casual Browser
+473,Routine Replenisher
+474,Deal Hunter
+475,Casual Browser
+476,Casual Browser
+477,Category Explorer
+478,Routine Replenisher
+479,Routine Replenisher
+480,Category Explorer
+481,Reviewer / Researcher
+482,Category Explorer
+483,Routine Replenisher
+484,Casual Browser
+485,Routine Replenisher
+486,Routine Replenisher
+487,Routine Replenisher
+488,Routine Replenisher
+489,Routine Replenisher
+490,Routine Replenisher
+491,Reviewer / Researcher
+492,Reviewer / Researcher
+493,Ingredient-Conscious
+494,Deal Hunter
+495,Casual Browser
+496,Routine Replenisher
+497,Routine Replenisher
+498,Category Explorer
+499,Routine Replenisher
+500,Routine Replenisher
+501,Routine Replenisher
+502,Category Explorer
+503,Premium Power Shopper
+504,Routine Replenisher
+505,Casual Browser
+506,Casual Browser
+507,Reviewer / Researcher
+508,Deal Hunter
+509,Deal Hunter
+510,Routine Replenisher
+511,Reviewer / Researcher
+512,Routine Replenisher
+513,Routine Replenisher
+514,Lapsed / Winback
+515,Casual Browser
+516,Category Explorer
+517,Category Explorer
+518,Routine Replenisher
+519,Ingredient-Conscious
+520,Ingredient-Conscious
+521,Lapsed / Winback
+522,Casual Browser
+523,Deal Hunter
+524,Routine Replenisher
+525,Routine Replenisher
+526,Category Explorer
+527,Routine Replenisher
+528,Casual Browser
+529,Category Explorer
+530,Lapsed / Winback
+531,Deal Hunter
+532,Casual Browser
+533,Routine Replenisher
+534,Routine Replenisher
+535,Category Explorer
+536,Reviewer / Researcher
+537,Category Explorer
+538,Casual Browser
+539,Reviewer / Researcher
+540,Category Explorer
+541,Ingredient-Conscious
+542,Casual Browser
+543,Category Explorer
+544,Lapsed / Winback
+545,Routine Replenisher
+546,Casual Browser
+547,Routine Replenisher
+548,Reviewer / Researcher
+549,Category Explorer
+550,Reviewer / Researcher
+551,Routine Replenisher
+552,Routine Replenisher
+553,Category Explorer
+554,Casual Browser
+555,Casual Browser
+556,Casual Browser
+557,Routine Replenisher
+558,Casual Browser
+559,Category Explorer
+560,Deal Hunter
+561,Category Explorer
+562,Deal Hunter
+563,Routine Replenisher
+564,Lapsed / Winback
+565,Deal Hunter
+566,Reviewer / Researcher
+567,Casual Browser
+568,Casual Browser
+569,Deal Hunter
+570,Routine Replenisher
+571,Routine Replenisher
+572,Casual Browser
+573,Deal Hunter
+574,Reviewer / Researcher
+575,Routine Replenisher
+576,Category Explorer
+577,Routine Replenisher
+578,Category Explorer
+579,Deal Hunter
+580,Ingredient-Conscious
+581,Casual Browser
+582,Casual Browser
+583,Reviewer / Researcher
+584,Ingredient-Conscious
+585,Routine Replenisher
+586,Casual Browser
+587,Category Explorer
+588,Routine Replenisher
+589,Lapsed / Winback
+590,Category Explorer
+591,Category Explorer
+592,Category Explorer
+593,Routine Replenisher
+594,Routine Replenisher
+595,Routine Replenisher
+596,Premium Power Shopper
+597,Reviewer / Researcher
+598,Category Explorer
+599,Casual Browser
+600,Premium Power Shopper
+601,Routine Replenisher
+602,Category Explorer
+603,Casual Browser
+604,Casual Browser
+605,Deal Hunter
+606,Casual Browser
+607,Routine Replenisher
+608,Routine Replenisher
+609,Deal Hunter
+610,Category Explorer
+611,Lapsed / Winback
+612,Routine Replenisher
+613,Casual Browser
+614,Casual Browser
+615,Ingredient-Conscious
+616,Casual Browser
+617,Category Explorer
+618,Routine Replenisher
+619,Casual Browser
+620,Reviewer / Researcher
+621,Ingredient-Conscious
+622,Deal Hunter
+623,Reviewer / Researcher
+624,Casual Browser
+625,Reviewer / Researcher
+626,Casual Browser
+627,Lapsed / Winback
+628,Routine Replenisher
+629,Routine Replenisher
+630,Routine Replenisher
+631,Lapsed / Winback
+632,Ingredient-Conscious
+633,Lapsed / Winback
+634,Ingredient-Conscious
+635,Casual Browser
+636,Routine Replenisher
+637,Casual Browser
+638,Routine Replenisher
+639,Reviewer / Researcher
+640,Category Explorer
+641,Routine Replenisher
+642,Category Explorer
+643,Casual Browser
+644,Routine Replenisher
+645,Routine Replenisher
+646,Brand Loyalist
+647,Routine Replenisher
+648,Deal Hunter
+649,Deal Hunter
+650,Category Explorer
+651,Lapsed / Winback
+652,Routine Replenisher
+653,Category Explorer
+654,Ingredient-Conscious
+655,Category Explorer
+656,Casual Browser
+657,Ingredient-Conscious
+658,Deal Hunter
+659,Deal Hunter
+660,Casual Browser
+661,Routine Replenisher
+662,Routine Replenisher
+663,Category Explorer
+664,Reviewer / Researcher
+665,Category Explorer
+666,Routine Replenisher
+667,Deal Hunter
+668,Deal Hunter
+669,Ingredient-Conscious
+670,Category Explorer
+671,Reviewer / Researcher
+672,Casual Browser
+673,Routine Replenisher
+674,Casual Browser
+675,Casual Browser
+676,Casual Browser
+677,Lapsed / Winback
+678,Routine Replenisher
+679,Deal Hunter
+680,Lapsed / Winback
+681,Category Explorer
+682,Casual Browser
+683,Casual Browser
+684,Routine Replenisher
+685,Routine Replenisher
+686,Category Explorer
+687,Reviewer / Researcher
+688,Deal Hunter
+689,Deal Hunter
+690,Casual Browser
+691,Reviewer / Researcher
+692,Category Explorer
+693,Reviewer / Researcher
+694,Category Explorer
+695,Reviewer / Researcher
+696,Reviewer / Researcher
+697,Ingredient-Conscious
+698,Deal Hunter
+699,Casual Browser
+700,Deal Hunter
+701,Category Explorer
+702,Deal Hunter
+703,Casual Browser
+704,Routine Replenisher
+705,Deal Hunter
+706,Deal Hunter
+707,Category Explorer
+708,Category Explorer
+709,Category Explorer
+710,Ingredient-Conscious
+711,Lapsed / Winback
+712,Deal Hunter
+713,Deal Hunter
+714,Casual Browser
+715,Deal Hunter
+716,Routine Replenisher
+717,Category Explorer
+718,Ingredient-Conscious
+719,Casual Browser
+720,Reviewer / Researcher
+721,Deal Hunter
+722,Deal Hunter
+723,Category Explorer
+724,Category Explorer
+725,Category Explorer
+726,Casual Browser
+727,Category Explorer
+728,Deal Hunter
+729,Casual Browser
+730,Category Explorer
+731,Casual Browser
+732,Casual Browser
+733,Category Explorer
+734,Lapsed / Winback
+735,Deal Hunter
+736,Routine Replenisher
+737,Lapsed / Winback
+738,Casual Browser
+739,Lapsed / Winback
+740,Reviewer / Researcher
+741,Casual Browser
+742,Casual Browser
+743,Category Explorer
+744,Casual Browser
+745,Casual Browser
+746,Category Explorer
+747,Ingredient-Conscious
+748,Category Explorer
+749,Routine Replenisher
+750,Reviewer / Researcher
+751,Deal Hunter
+752,Deal Hunter
+753,Deal Hunter
+754,Category Explorer
+755,Routine Replenisher
+756,Ingredient-Conscious
+757,Routine Replenisher
+758,Routine Replenisher
+759,Casual Browser
+760,Deal Hunter
+761,Casual Browser
+762,Casual Browser
+763,Deal Hunter
+764,Reviewer / Researcher
+765,Casual Browser
+766,Premium Power Shopper
+767,Category Explorer
+768,Ingredient-Conscious
+769,Routine Replenisher
+770,Routine Replenisher
+771,Ingredient-Conscious
+772,Reviewer / Researcher
+773,Category Explorer
+774,Category Explorer
+775,Casual Browser
+776,Routine Replenisher
+777,Category Explorer
+778,Reviewer / Researcher
+779,Category Explorer
+780,Routine Replenisher
+781,Reviewer / Researcher
+782,Casual Browser
+783,Casual Browser
+784,Category Explorer
+785,Casual Browser
+786,Lapsed / Winback
+787,Routine Replenisher
+788,Reviewer / Researcher
+789,Casual Browser
+790,Reviewer / Researcher
+791,Routine Replenisher
+792,Deal Hunter
+793,Casual Browser
+794,Routine Replenisher
+795,Ingredient-Conscious
+796,Casual Browser
+797,Casual Browser
+798,Premium Power Shopper
+799,Category Explorer
+800,Routine Replenisher
+801,Category Explorer
+802,Routine Replenisher
+803,Ingredient-Conscious
+804,Routine Replenisher
+805,Routine Replenisher
+806,Routine Replenisher
+807,Casual Browser
+808,Casual Browser
+809,Routine Replenisher
+810,Routine Replenisher
+811,Reviewer / Researcher
+812,Category Explorer
+813,Ingredient-Conscious
+814,Ingredient-Conscious
+815,Deal Hunter
+816,Category Explorer
+817,Category Explorer
+818,Reviewer / Researcher
+819,Lapsed / Winback
+820,Routine Replenisher
+821,Deal Hunter
+822,Casual Browser
+823,Reviewer / Researcher
+824,Deal Hunter
+825,Routine Replenisher
+826,Category Explorer
+827,Ingredient-Conscious
+828,Casual Browser
+829,Reviewer / Researcher
+830,Lapsed / Winback
+831,Casual Browser
+832,Routine Replenisher
+833,Deal Hunter
+834,Category Explorer
+835,Reviewer / Researcher
+836,Category Explorer
+837,Category Explorer
+838,Routine Replenisher
+839,Category Explorer
+840,Casual Browser
+841,Routine Replenisher
+842,Casual Browser
+843,Category Explorer
+844,Premium Power Shopper
+845,Deal Hunter
+846,Casual Browser
+847,Category Explorer
+848,Casual Browser
+849,Reviewer / Researcher
+850,Reviewer / Researcher
+851,Ingredient-Conscious
+852,Deal Hunter
+853,Category Explorer
+854,Routine Replenisher
+855,Casual Browser
+856,Lapsed / Winback
+857,Ingredient-Conscious
+858,Category Explorer
+859,Deal Hunter
+860,Casual Browser
+861,Casual Browser
+862,Category Explorer
+863,Category Explorer
+864,Casual Browser
+865,Category Explorer
+866,Reviewer / Researcher
+867,Casual Browser
+868,Routine Replenisher
+869,Routine Replenisher
+870,Category Explorer
+871,Ingredient-Conscious
+872,Lapsed / Winback
+873,Routine Replenisher
+874,Deal Hunter
+875,Lapsed / Winback
+876,Casual Browser
+877,Casual Browser
+878,Casual Browser
+879,Deal Hunter
+880,Ingredient-Conscious
+881,Casual Browser
+882,Casual Browser
+883,Lapsed / Winback
+884,Deal Hunter
+885,Casual Browser
+886,Premium Power Shopper
+887,Deal Hunter
+888,Category Explorer
+889,Casual Browser
+890,Routine Replenisher
+891,Premium Power Shopper
+892,Casual Browser
+893,Ingredient-Conscious
+894,Casual Browser
+895,Category Explorer
+896,Deal Hunter
+897,Reviewer / Researcher
+898,Reviewer / Researcher
+899,Casual Browser
+900,Category Explorer
+901,Routine Replenisher
+902,Reviewer / Researcher
+903,Category Explorer
+904,Deal Hunter
+905,Casual Browser
+906,Category Explorer
+907,Deal Hunter
+908,Category Explorer
+909,Category Explorer
+910,Routine Replenisher
+911,Category Explorer
+912,Routine Replenisher
+913,Deal Hunter
+914,Casual Browser
+915,Casual Browser
+916,Casual Browser
+917,Reviewer / Researcher
+918,Casual Browser
+919,Casual Browser
+920,Premium Power Shopper
+921,Casual Browser
+922,Routine Replenisher
+923,Premium Power Shopper
+924,Deal Hunter
+925,Category Explorer
+926,Deal Hunter
+927,Casual Browser
+928,Routine Replenisher
+929,Ingredient-Conscious
+930,Category Explorer
+931,Category Explorer
+932,Casual Browser
+933,Casual Browser
+934,Category Explorer
+935,Routine Replenisher
+936,Casual Browser
+937,Deal Hunter
+938,Routine Replenisher
+939,Reviewer / Researcher
+940,Premium Power Shopper
+941,Routine Replenisher
+942,Casual Browser
+943,Routine Replenisher
+944,Category Explorer
+945,Category Explorer
+946,Routine Replenisher
+947,Routine Replenisher
+948,Deal Hunter
+949,Deal Hunter
+950,Routine Replenisher
+951,Routine Replenisher
+952,Deal Hunter
+953,Casual Browser
+954,Routine Replenisher
+955,Deal Hunter
+956,Casual Browser
+957,Reviewer / Researcher
+958,Routine Replenisher
+959,Deal Hunter
+960,Casual Browser
+961,Casual Browser
+962,Category Explorer
+963,Ingredient-Conscious
+964,Deal Hunter
+965,Casual Browser
+966,Category Explorer
+967,Casual Browser
+968,Routine Replenisher
+969,Ingredient-Conscious
+970,Category Explorer
+971,Reviewer / Researcher
+972,Ingredient-Conscious
+973,Routine Replenisher
+974,Reviewer / Researcher
+975,Routine Replenisher
+976,Routine Replenisher
+977,Casual Browser
+978,Routine Replenisher
+979,Ingredient-Conscious
+980,Category Explorer
+981,Routine Replenisher
+982,Reviewer / Researcher
+983,Deal Hunter
+984,Routine Replenisher
+985,Casual Browser
+986,Category Explorer
+987,Routine Replenisher
+988,Lapsed / Winback
+989,Ingredient-Conscious
+990,Casual Browser
+991,Routine Replenisher
+992,Reviewer / Researcher
+993,Routine Replenisher
+994,Category Explorer
+995,Reviewer / Researcher
+996,Lapsed / Winback
+997,Deal Hunter
+998,Deal Hunter
+999,Deal Hunter
+1000,Reviewer / Researcher
+1001,Deal Hunter
+1002,Casual Browser
+1003,Casual Browser
+1004,Category Explorer
+1005,Lapsed / Winback
+1006,Category Explorer
+1007,Lapsed / Winback
+1008,Reviewer / Researcher
+1009,Routine Replenisher
+1010,Deal Hunter
+1011,Routine Replenisher
+1012,Routine Replenisher
+1013,Routine Replenisher
+1014,Reviewer / Researcher
+1015,Routine Replenisher
+1016,Routine Replenisher
+1017,Deal Hunter
+1018,Casual Browser
+1019,Routine Replenisher
+1020,Reviewer / Researcher
+1021,Category Explorer
+1022,Casual Browser
+1023,Category Explorer
+1024,Ingredient-Conscious
+1025,Category Explorer
+1026,Casual Browser
+1027,Lapsed / Winback
+1028,Routine Replenisher
+1029,Deal Hunter
+1030,Deal Hunter
+1031,Reviewer / Researcher
+1032,Deal Hunter
+1033,Deal Hunter
+1034,Deal Hunter
+1035,Reviewer / Researcher
+1036,Reviewer / Researcher
+1037,Reviewer / Researcher
+1038,Casual Browser
+1039,Casual Browser
+1040,Casual Browser
+1041,Category Explorer
+1042,Routine Replenisher
+1043,Casual Browser
+1044,Routine Replenisher
+1045,Category Explorer
+1046,Routine Replenisher
+1047,Ingredient-Conscious
+1048,Ingredient-Conscious
+1049,Category Explorer
+1050,Reviewer / Researcher
+1051,Deal Hunter
+1052,Casual Browser
+1053,Routine Replenisher
+1054,Casual Browser
+1055,Routine Replenisher
+1056,Category Explorer
+1057,Casual Browser
+1058,Lapsed / Winback
+1059,Routine Replenisher
+1060,Routine Replenisher
+1061,Routine Replenisher
+1062,Casual Browser
+1063,Ingredient-Conscious
+1064,Casual Browser
+1065,Category Explorer
+1066,Routine Replenisher
+1067,Category Explorer
+1068,Routine Replenisher
+1069,Reviewer / Researcher
+1070,Routine Replenisher
+1071,Category Explorer
+1072,Casual Browser
+1073,Routine Replenisher
+1074,Casual Browser
+1075,Deal Hunter
+1076,Category Explorer
+1077,Deal Hunter
+1078,Ingredient-Conscious
+1079,Deal Hunter
+1080,Lapsed / Winback
+1081,Reviewer / Researcher
+1082,Deal Hunter
+1083,Routine Replenisher
+1084,Category Explorer
+1085,Deal Hunter
+1086,Deal Hunter
+1087,Reviewer / Researcher
+1088,Routine Replenisher
+1089,Casual Browser
+1090,Ingredient-Conscious
+1091,Deal Hunter
+1092,Ingredient-Conscious
+1093,Deal Hunter
+1094,Brand Loyalist
+1095,Category Explorer
+1096,Routine Replenisher
+1097,Deal Hunter
+1098,Deal Hunter
+1099,Casual Browser
+1100,Ingredient-Conscious
+1101,Category Explorer
+1102,Casual Browser
+1103,Category Explorer
+1104,Casual Browser
+1105,Routine Replenisher
+1106,Casual Browser
+1107,Casual Browser
+1108,Routine Replenisher
+1109,Reviewer / Researcher
+1110,Casual Browser
+1111,Category Explorer
+1112,Casual Browser
+1113,Reviewer / Researcher
+1114,Category Explorer
+1115,Deal Hunter
+1116,Lapsed / Winback
+1117,Casual Browser
+1118,Casual Browser
+1119,Deal Hunter
+1120,Ingredient-Conscious
+1121,Category Explorer
+1122,Deal Hunter
+1123,Casual Browser
+1124,Casual Browser
+1125,Lapsed / Winback
+1126,Lapsed / Winback
+1127,Casual Browser
+1128,Casual Browser
+1129,Routine Replenisher
+1130,Ingredient-Conscious
+1131,Routine Replenisher
+1132,Deal Hunter
+1133,Lapsed / Winback
+1134,Deal Hunter
+1135,Category Explorer
+1136,Deal Hunter
+1137,Deal Hunter
+1138,Routine Replenisher
+1139,Category Explorer
+1140,Category Explorer
+1141,Casual Browser
+1142,Category Explorer
+1143,Reviewer / Researcher
+1144,Casual Browser
+1145,Category Explorer
+1146,Deal Hunter
+1147,Casual Browser
+1148,Category Explorer
+1149,Category Explorer
+1150,Casual Browser
+1151,Reviewer / Researcher
+1152,Casual Browser
+1153,Ingredient-Conscious
+1154,Deal Hunter
+1155,Category Explorer
+1156,Deal Hunter
+1157,Casual Browser
+1158,Deal Hunter
+1159,Deal Hunter
+1160,Deal Hunter
+1161,Deal Hunter
+1162,Ingredient-Conscious
+1163,Category Explorer
+1164,Category Explorer
+1165,Deal Hunter
+1166,Routine Replenisher
+1167,Deal Hunter
+1168,Deal Hunter
+1169,Ingredient-Conscious
+1170,Deal Hunter
+1171,Casual Browser
+1172,Deal Hunter
+1173,Category Explorer
+1174,Routine Replenisher
+1175,Category Explorer
+1176,Reviewer / Researcher
+1177,Routine Replenisher
+1178,Casual Browser
+1179,Casual Browser
+1180,Routine Replenisher
+1181,Deal Hunter
+1182,Casual Browser
+1183,Routine Replenisher
+1184,Ingredient-Conscious
+1185,Reviewer / Researcher
+1186,Routine Replenisher
+1187,Routine Replenisher
+1188,Ingredient-Conscious
+1189,Routine Replenisher
+1190,Category Explorer
+1191,Deal Hunter
+1192,Deal Hunter
+1193,Deal Hunter
+1194,Casual Browser
+1195,Reviewer / Researcher
+1196,Deal Hunter
+1197,Casual Browser
+1198,Category Explorer
+1199,Casual Browser
+1200,Deal Hunter
+1201,Routine Replenisher
+1202,Routine Replenisher
+1203,Category Explorer
+1204,Category Explorer
+1205,Category Explorer
+1206,Category Explorer
+1207,Routine Replenisher
+1208,Category Explorer
+1209,Routine Replenisher
+1210,Casual Browser
+1211,Casual Browser
+1212,Casual Browser
+1213,Reviewer / Researcher
+1214,Deal Hunter
+1215,Category Explorer
+1216,Routine Replenisher
+1217,Deal Hunter
+1218,Category Explorer
+1219,Routine Replenisher
+1220,Reviewer / Researcher
+1221,Casual Browser
+1222,Reviewer / Researcher
+1223,Category Explorer
+1224,Casual Browser
+1225,Ingredient-Conscious
+1226,Premium Power Shopper
+1227,Routine Replenisher
+1228,Routine Replenisher
+1229,Deal Hunter
+1230,Deal Hunter
+1231,Deal Hunter
+1232,Deal Hunter
+1233,Routine Replenisher
+1234,Ingredient-Conscious
+1235,Casual Browser
+1236,Deal Hunter
+1237,Category Explorer
+1238,Reviewer / Researcher
+1239,Lapsed / Winback
+1240,Casual Browser
+1241,Casual Browser
+1242,Casual Browser
+1243,Routine Replenisher
+1244,Routine Replenisher
+1245,Casual Browser
+1246,Ingredient-Conscious
+1247,Ingredient-Conscious
+1248,Lapsed / Winback
+1249,Category Explorer
+1250,Category Explorer
+1251,Category Explorer
+1252,Lapsed / Winback
+1253,Routine Replenisher
+1254,Routine Replenisher
+1255,Casual Browser
+1256,Routine Replenisher
+1257,Category Explorer
+1258,Casual Browser
+1259,Casual Browser
+1260,Casual Browser
+1261,Deal Hunter
+1262,Ingredient-Conscious
+1263,Routine Replenisher
+1264,Routine Replenisher
+1265,Routine Replenisher
+1266,Lapsed / Winback
+1267,Routine Replenisher
+1268,Deal Hunter
+1269,Ingredient-Conscious
+1270,Category Explorer
+1271,Lapsed / Winback
+1272,Category Explorer
+1273,Category Explorer
+1274,Routine Replenisher
+1275,Category Explorer
+1276,Category Explorer
+1277,Deal Hunter
+1278,Deal Hunter
+1279,Casual Browser
+1280,Reviewer / Researcher
+1281,Category Explorer
+1282,Deal Hunter
+1283,Category Explorer
+1284,Deal Hunter
+1285,Category Explorer
+1286,Category Explorer
+1287,Deal Hunter
+1288,Deal Hunter
+1289,Casual Browser
+1290,Lapsed / Winback
+1291,Reviewer / Researcher
+1292,Category Explorer
+1293,Casual Browser
+1294,Lapsed / Winback
+1295,Routine Replenisher
+1296,Casual Browser
+1297,Ingredient-Conscious
+1298,Lapsed / Winback
+1299,Casual Browser
+1300,Reviewer / Researcher
+1301,Deal Hunter
+1302,Routine Replenisher
+1303,Casual Browser
+1304,Casual Browser
+1305,Premium Power Shopper
+1306,Category Explorer
+1307,Casual Browser
+1308,Casual Browser
+1309,Category Explorer
+1310,Casual Browser
+1311,Deal Hunter
+1312,Deal Hunter
+1313,Routine Replenisher
+1314,Ingredient-Conscious
+1315,Routine Replenisher
+1316,Casual Browser
+1317,Routine Replenisher
+1318,Ingredient-Conscious
+1319,Lapsed / Winback
+1320,Casual Browser
+1321,Routine Replenisher
+1322,Routine Replenisher
+1323,Premium Power Shopper
+1324,Deal Hunter
+1325,Category Explorer
+1326,Deal Hunter
+1327,Premium Power Shopper
+1328,Casual Browser
+1329,Routine Replenisher
+1330,Deal Hunter
+1331,Casual Browser
+1332,Casual Browser
+1333,Routine Replenisher
+1334,Deal Hunter
+1335,Routine Replenisher
+1336,Category Explorer
+1337,Routine Replenisher
+1338,Casual Browser
+1339,Deal Hunter
+1340,Category Explorer
+1341,Ingredient-Conscious
+1342,Casual Browser
+1343,Category Explorer
+1344,Casual Browser
+1345,Casual Browser
+1346,Routine Replenisher
+1347,Ingredient-Conscious
+1348,Routine Replenisher
+1349,Category Explorer
+1350,Routine Replenisher
+1351,Casual Browser
+1352,Routine Replenisher
+1353,Casual Browser
+1354,Routine Replenisher
+1355,Category Explorer
+1356,Deal Hunter
+1357,Casual Browser
+1358,Category Explorer
+1359,Deal Hunter
+1360,Casual Browser
+1361,Deal Hunter
+1362,Casual Browser
+1363,Category Explorer
+1364,Casual Browser
+1365,Reviewer / Researcher
+1366,Deal Hunter
+1367,Casual Browser
+1368,Casual Browser
+1369,Ingredient-Conscious
+1370,Deal Hunter
+1371,Category Explorer
+1372,Casual Browser
+1373,Routine Replenisher
+1374,Casual Browser
+1375,Casual Browser
+1376,Casual Browser
+1377,Category Explorer
+1378,Casual Browser
+1379,Ingredient-Conscious
+1380,Premium Power Shopper
+1381,Routine Replenisher
+1382,Ingredient-Conscious
+1383,Casual Browser
+1384,Brand Loyalist
+1385,Deal Hunter
+1386,Casual Browser
+1387,Casual Browser
+1388,Reviewer / Researcher
+1389,Deal Hunter
+1390,Reviewer / Researcher
+1391,Deal Hunter
+1392,Casual Browser
+1393,Casual Browser
+1394,Reviewer / Researcher
+1395,Lapsed / Winback
+1396,Ingredient-Conscious
+1397,Casual Browser
+1398,Routine Replenisher
+1399,Casual Browser
+1400,Casual Browser
+1401,Routine Replenisher
+1402,Category Explorer
+1403,Deal Hunter
+1404,Category Explorer
+1405,Casual Browser
+1406,Routine Replenisher
+1407,Reviewer / Researcher
+1408,Deal Hunter
+1409,Category Explorer
+1410,Routine Replenisher
+1411,Routine Replenisher
+1412,Routine Replenisher
+1413,Casual Browser
+1414,Category Explorer
+1415,Reviewer / Researcher
+1416,Brand Loyalist
+1417,Casual Browser
+1418,Routine Replenisher
+1419,Routine Replenisher
+1420,Routine Replenisher
+1421,Ingredient-Conscious
+1422,Routine Replenisher
+1423,Casual Browser
+1424,Casual Browser
+1425,Routine Replenisher
+1426,Casual Browser
+1427,Category Explorer
+1428,Category Explorer
+1429,Reviewer / Researcher
+1430,Routine Replenisher
+1431,Casual Browser
+1432,Routine Replenisher
+1433,Deal Hunter
+1434,Routine Replenisher
+1435,Category Explorer
+1436,Brand Loyalist
+1437,Casual Browser
+1438,Routine Replenisher
+1439,Ingredient-Conscious
+1440,Routine Replenisher
+1441,Casual Browser
+1442,Lapsed / Winback
+1443,Reviewer / Researcher
+1444,Casual Browser
+1445,Casual Browser
+1446,Deal Hunter
+1447,Deal Hunter
+1448,Routine Replenisher
+1449,Deal Hunter
+1450,Lapsed / Winback
+1451,Deal Hunter
+1452,Reviewer / Researcher
+1453,Casual Browser
+1454,Routine Replenisher
+1455,Category Explorer
+1456,Deal Hunter
+1457,Ingredient-Conscious
+1458,Reviewer / Researcher
+1459,Category Explorer
+1460,Casual Browser
+1461,Ingredient-Conscious
+1462,Routine Replenisher
+1463,Routine Replenisher
+1464,Category Explorer
+1465,Ingredient-Conscious
+1466,Routine Replenisher
+1467,Category Explorer
+1468,Ingredient-Conscious
+1469,Deal Hunter
+1470,Casual Browser
+1471,Casual Browser
+1472,Category Explorer
+1473,Category Explorer
+1474,Deal Hunter
+1475,Category Explorer
+1476,Category Explorer
+1477,Casual Browser
+1478,Lapsed / Winback
+1479,Routine Replenisher
+1480,Casual Browser
+1481,Routine Replenisher
+1482,Premium Power Shopper
+1483,Ingredient-Conscious
+1484,Category Explorer
+1485,Casual Browser
+1486,Premium Power Shopper
+1487,Category Explorer
+1488,Routine Replenisher
+1489,Casual Browser
+1490,Ingredient-Conscious
+1491,Lapsed / Winback
+1492,Casual Browser
+1493,Reviewer / Researcher
+1494,Routine Replenisher
+1495,Routine Replenisher
+1496,Routine Replenisher
+1497,Reviewer / Researcher
+1498,Category Explorer
+1499,Casual Browser
+1500,Routine Replenisher
+1501,Category Explorer
+1502,Deal Hunter
+1503,Reviewer / Researcher
+1504,Casual Browser
+1505,Lapsed / Winback
+1506,Casual Browser
+1507,Deal Hunter
+1508,Lapsed / Winback
+1509,Casual Browser
+1510,Reviewer / Researcher
+1511,Reviewer / Researcher
+1512,Deal Hunter
+1513,Routine Replenisher
+1514,Casual Browser
+1515,Category Explorer
+1516,Casual Browser
+1517,Category Explorer
+1518,Reviewer / Researcher
+1519,Casual Browser
+1520,Routine Replenisher
+1521,Category Explorer
+1522,Lapsed / Winback
+1523,Ingredient-Conscious
+1524,Routine Replenisher
+1525,Routine Replenisher
+1526,Routine Replenisher
+1527,Reviewer / Researcher
+1528,Lapsed / Winback
+1529,Category Explorer
+1530,Lapsed / Winback
+1531,Ingredient-Conscious
+1532,Category Explorer
+1533,Routine Replenisher
+1534,Casual Browser
+1535,Category Explorer
+1536,Ingredient-Conscious
+1537,Routine Replenisher
+1538,Reviewer / Researcher
+1539,Casual Browser
+1540,Casual Browser
+1541,Deal Hunter
+1542,Casual Browser
+1543,Routine Replenisher
+1544,Reviewer / Researcher
+1545,Reviewer / Researcher
+1546,Lapsed / Winback
+1547,Routine Replenisher
+1548,Routine Replenisher
+1549,Casual Browser
+1550,Deal Hunter
+1551,Routine Replenisher
+1552,Casual Browser
+1553,Category Explorer
+1554,Routine Replenisher
+1555,Deal Hunter
+1556,Deal Hunter
+1557,Category Explorer
+1558,Premium Power Shopper
+1559,Casual Browser
+1560,Casual Browser
+1561,Routine Replenisher
+1562,Casual Browser
+1563,Ingredient-Conscious
+1564,Routine Replenisher
+1565,Routine Replenisher
+1566,Casual Browser
+1567,Deal Hunter
+1568,Deal Hunter
+1569,Reviewer / Researcher
+1570,Category Explorer
+1571,Casual Browser
+1572,Deal Hunter
+1573,Casual Browser
+1574,Category Explorer
+1575,Deal Hunter
+1576,Deal Hunter
+1577,Routine Replenisher
+1578,Routine Replenisher
+1579,Routine Replenisher
+1580,Casual Browser
+1581,Routine Replenisher
+1582,Category Explorer
+1583,Deal Hunter
+1584,Reviewer / Researcher
+1585,Routine Replenisher
+1586,Routine Replenisher
+1587,Casual Browser
+1588,Routine Replenisher
+1589,Ingredient-Conscious
+1590,Ingredient-Conscious
+1591,Reviewer / Researcher
+1592,Deal Hunter
+1593,Deal Hunter
+1594,Category Explorer
+1595,Lapsed / Winback
+1596,Casual Browser
+1597,Category Explorer
+1598,Deal Hunter
+1599,Category Explorer
+1600,Casual Browser
+1601,Category Explorer
+1602,Premium Power Shopper
+1603,Deal Hunter
+1604,Routine Replenisher
+1605,Category Explorer
+1606,Casual Browser
+1607,Casual Browser
+1608,Routine Replenisher
+1609,Deal Hunter
+1610,Lapsed / Winback
+1611,Routine Replenisher
+1612,Deal Hunter
+1613,Casual Browser
+1614,Ingredient-Conscious
+1615,Category Explorer
+1616,Casual Browser
+1617,Lapsed / Winback
+1618,Deal Hunter
+1619,Casual Browser
+1620,Deal Hunter
+1621,Lapsed / Winback
+1622,Ingredient-Conscious
+1623,Routine Replenisher
+1624,Lapsed / Winback
+1625,Casual Browser
+1626,Category Explorer
+1627,Casual Browser
+1628,Reviewer / Researcher
+1629,Casual Browser
+1630,Deal Hunter
+1631,Routine Replenisher
+1632,Deal Hunter
+1633,Deal Hunter
+1634,Deal Hunter
+1635,Reviewer / Researcher
+1636,Ingredient-Conscious
+1637,Reviewer / Researcher
+1638,Deal Hunter
+1639,Casual Browser
+1640,Reviewer / Researcher
+1641,Reviewer / Researcher
+1642,Deal Hunter
+1643,Ingredient-Conscious
+1644,Routine Replenisher
+1645,Ingredient-Conscious
+1646,Ingredient-Conscious
+1647,Deal Hunter
+1648,Deal Hunter
+1649,Routine Replenisher
+1650,Category Explorer
+1651,Deal Hunter
+1652,Category Explorer
+1653,Routine Replenisher
+1654,Casual Browser
+1655,Routine Replenisher
+1656,Reviewer / Researcher
+1657,Casual Browser
+1658,Deal Hunter
+1659,Reviewer / Researcher
+1660,Casual Browser
+1661,Routine Replenisher
+1662,Ingredient-Conscious
+1663,Deal Hunter
+1664,Casual Browser
+1665,Casual Browser
+1666,Casual Browser
+1667,Lapsed / Winback
+1668,Ingredient-Conscious
+1669,Category Explorer
+1670,Deal Hunter
+1671,Reviewer / Researcher
+1672,Lapsed / Winback
+1673,Category Explorer
+1674,Category Explorer
+1675,Routine Replenisher
+1676,Category Explorer
+1677,Routine Replenisher
+1678,Category Explorer
+1679,Reviewer / Researcher
+1680,Routine Replenisher
+1681,Deal Hunter
+1682,Routine Replenisher
+1683,Routine Replenisher
+1684,Casual Browser
+1685,Deal Hunter
+1686,Routine Replenisher
+1687,Reviewer / Researcher
+1688,Category Explorer
+1689,Category Explorer
+1690,Casual Browser
+1691,Ingredient-Conscious
+1692,Category Explorer
+1693,Deal Hunter
+1694,Routine Replenisher
+1695,Category Explorer
+1696,Lapsed / Winback
+1697,Casual Browser
+1698,Routine Replenisher
+1699,Lapsed / Winback
+1700,Reviewer / Researcher
+1701,Category Explorer
+1702,Deal Hunter
+1703,Deal Hunter
+1704,Routine Replenisher
+1705,Reviewer / Researcher
+1706,Ingredient-Conscious
+1707,Category Explorer
+1708,Casual Browser
+1709,Deal Hunter
+1710,Deal Hunter
+1711,Deal Hunter
+1712,Casual Browser
+1713,Routine Replenisher
+1714,Ingredient-Conscious
+1715,Lapsed / Winback
+1716,Routine Replenisher
+1717,Routine Replenisher
+1718,Category Explorer
+1719,Routine Replenisher
+1720,Routine Replenisher
+1721,Reviewer / Researcher
+1722,Deal Hunter
+1723,Reviewer / Researcher
+1724,Casual Browser
+1725,Casual Browser
+1726,Casual Browser
+1727,Reviewer / Researcher
+1728,Ingredient-Conscious
+1729,Casual Browser
+1730,Premium Power Shopper
+1731,Category Explorer
+1732,Lapsed / Winback
+1733,Casual Browser
+1734,Ingredient-Conscious
+1735,Deal Hunter
+1736,Casual Browser
+1737,Routine Replenisher
+1738,Casual Browser
+1739,Deal Hunter
+1740,Casual Browser
+1741,Casual Browser
+1742,Reviewer / Researcher
+1743,Routine Replenisher
+1744,Casual Browser
+1745,Ingredient-Conscious
+1746,Routine Replenisher
+1747,Routine Replenisher
+1748,Ingredient-Conscious
+1749,Deal Hunter
+1750,Category Explorer
+1751,Ingredient-Conscious
+1752,Reviewer / Researcher
+1753,Category Explorer
+1754,Category Explorer
+1755,Ingredient-Conscious
+1756,Ingredient-Conscious
+1757,Deal Hunter
+1758,Casual Browser
+1759,Casual Browser
+1760,Category Explorer
+1761,Routine Replenisher
+1762,Deal Hunter
+1763,Reviewer / Researcher
+1764,Deal Hunter
+1765,Category Explorer
+1766,Casual Browser
+1767,Deal Hunter
+1768,Routine Replenisher
+1769,Lapsed / Winback
+1770,Reviewer / Researcher
+1771,Casual Browser
+1772,Routine Replenisher
+1773,Category Explorer
+1774,Casual Browser
+1775,Routine Replenisher
+1776,Casual Browser
+1777,Routine Replenisher
+1778,Routine Replenisher
+1779,Reviewer / Researcher
+1780,Casual Browser
+1781,Casual Browser
+1782,Ingredient-Conscious
+1783,Reviewer / Researcher
+1784,Reviewer / Researcher
+1785,Casual Browser
+1786,Casual Browser
+1787,Casual Browser
+1788,Routine Replenisher
+1789,Reviewer / Researcher
+1790,Casual Browser
+1791,Lapsed / Winback
+1792,Deal Hunter
+1793,Casual Browser
+1794,Routine Replenisher
+1795,Reviewer / Researcher
+1796,Deal Hunter
+1797,Routine Replenisher
+1798,Routine Replenisher
+1799,Casual Browser
+1800,Category Explorer
+1801,Premium Power Shopper
+1802,Lapsed / Winback
+1803,Lapsed / Winback
+1804,Premium Power Shopper
+1805,Routine Replenisher
+1806,Category Explorer
+1807,Deal Hunter
+1808,Deal Hunter
+1809,Category Explorer
+1810,Casual Browser
+1811,Routine Replenisher
+1812,Category Explorer
+1813,Lapsed / Winback
+1814,Routine Replenisher
+1815,Routine Replenisher
+1816,Reviewer / Researcher
+1817,Deal Hunter
+1818,Casual Browser
+1819,Routine Replenisher
+1820,Routine Replenisher
+1821,Casual Browser
+1822,Category Explorer
+1823,Category Explorer
+1824,Routine Replenisher
+1825,Category Explorer
+1826,Routine Replenisher
+1827,Deal Hunter
+1828,Deal Hunter
+1829,Category Explorer
+1830,Deal Hunter
+1831,Routine Replenisher
+1832,Deal Hunter
+1833,Deal Hunter
+1834,Routine Replenisher
+1835,Reviewer / Researcher
+1836,Category Explorer
+1837,Casual Browser
+1838,Deal Hunter
+1839,Casual Browser
+1840,Category Explorer
+1841,Category Explorer
+1842,Deal Hunter
+1843,Routine Replenisher
+1844,Deal Hunter
+1845,Ingredient-Conscious
+1846,Routine Replenisher
+1847,Casual Browser
+1848,Casual Browser
+1849,Deal Hunter
+1850,Routine Replenisher
+1851,Deal Hunter
+1852,Casual Browser
+1853,Casual Browser
+1854,Routine Replenisher
+1855,Reviewer / Researcher
+1856,Casual Browser
+1857,Ingredient-Conscious
+1858,Deal Hunter
+1859,Category Explorer
+1860,Routine Replenisher
+1861,Routine Replenisher
+1862,Casual Browser
+1863,Deal Hunter
+1864,Casual Browser
+1865,Casual Browser
+1866,Category Explorer
+1867,Category Explorer
+1868,Deal Hunter
+1869,Deal Hunter
+1870,Lapsed / Winback
+1871,Casual Browser
+1872,Casual Browser
+1873,Casual Browser
+1874,Routine Replenisher
+1875,Routine Replenisher
+1876,Category Explorer
+1877,Category Explorer
+1878,Lapsed / Winback
+1879,Category Explorer
+1880,Reviewer / Researcher
+1881,Routine Replenisher
+1882,Lapsed / Winback
+1883,Lapsed / Winback
+1884,Casual Browser
+1885,Category Explorer
+1886,Category Explorer
+1887,Deal Hunter
+1888,Routine Replenisher
+1889,Lapsed / Winback
+1890,Reviewer / Researcher
+1891,Routine Replenisher
+1892,Reviewer / Researcher
+1893,Reviewer / Researcher
+1894,Deal Hunter
+1895,Routine Replenisher
+1896,Category Explorer
+1897,Deal Hunter
+1898,Category Explorer
+1899,Category Explorer
+1900,Routine Replenisher
+1901,Category Explorer
+1902,Reviewer / Researcher
+1903,Routine Replenisher
+1904,Casual Browser
+1905,Deal Hunter
+1906,Routine Replenisher
+1907,Casual Browser
+1908,Lapsed / Winback
+1909,Ingredient-Conscious
+1910,Lapsed / Winback
+1911,Category Explorer
+1912,Casual Browser
+1913,Casual Browser
+1914,Category Explorer
+1915,Deal Hunter
+1916,Routine Replenisher
+1917,Premium Power Shopper
+1918,Routine Replenisher
+1919,Routine Replenisher
+1920,Routine Replenisher
+1921,Reviewer / Researcher
+1922,Casual Browser
+1923,Casual Browser
+1924,Deal Hunter
+1925,Ingredient-Conscious
+1926,Deal Hunter
+1927,Casual Browser
+1928,Routine Replenisher
+1929,Category Explorer
+1930,Category Explorer
+1931,Deal Hunter
+1932,Category Explorer
+1933,Deal Hunter
+1934,Casual Browser
+1935,Category Explorer
+1936,Deal Hunter
+1937,Category Explorer
+1938,Ingredient-Conscious
+1939,Category Explorer
+1940,Casual Browser
+1941,Ingredient-Conscious
+1942,Category Explorer
+1943,Deal Hunter
+1944,Ingredient-Conscious
+1945,Lapsed / Winback
+1946,Category Explorer
+1947,Category Explorer
+1948,Category Explorer
+1949,Deal Hunter
+1950,Casual Browser
+1951,Category Explorer
+1952,Category Explorer
+1953,Routine Replenisher
+1954,Ingredient-Conscious
+1955,Casual Browser
+1956,Casual Browser
+1957,Category Explorer
+1958,Routine Replenisher
+1959,Category Explorer
+1960,Category Explorer
+1961,Category Explorer
+1962,Casual Browser
+1963,Category Explorer
+1964,Deal Hunter
+1965,Deal Hunter
+1966,Reviewer / Researcher
+1967,Category Explorer
+1968,Routine Replenisher
+1969,Casual Browser
+1970,Category Explorer
+1971,Reviewer / Researcher
+1972,Casual Browser
+1973,Ingredient-Conscious
+1974,Ingredient-Conscious
+1975,Category Explorer
+1976,Category Explorer
+1977,Deal Hunter
+1978,Deal Hunter
+1979,Lapsed / Winback
+1980,Lapsed / Winback
+1981,Ingredient-Conscious
+1982,Lapsed / Winback
+1983,Routine Replenisher
+1984,Routine Replenisher
+1985,Routine Replenisher
+1986,Routine Replenisher
+1987,Ingredient-Conscious
+1988,Deal Hunter
+1989,Category Explorer
+1990,Category Explorer
+1991,Routine Replenisher
+1992,Deal Hunter
+1993,Casual Browser
+1994,Category Explorer
+1995,Routine Replenisher
+1996,Reviewer / Researcher
+1997,Casual Browser
+1998,Routine Replenisher
+1999,Deal Hunter
+2000,Casual Browser
+2001,Reviewer / Researcher
+2002,Category Explorer
+2003,Casual Browser
+2004,Routine Replenisher
+2005,Reviewer / Researcher
+2006,Routine Replenisher
+2007,Deal Hunter
+2008,Routine Replenisher
+2009,Deal Hunter
+2010,Ingredient-Conscious
+2011,Routine Replenisher
+2012,Routine Replenisher
+2013,Category Explorer
+2014,Casual Browser
+2015,Routine Replenisher
+2016,Deal Hunter
+2017,Deal Hunter
+2018,Ingredient-Conscious
+2019,Reviewer / Researcher
+2020,Routine Replenisher
+2021,Casual Browser
+2022,Category Explorer
+2023,Category Explorer
+2024,Category Explorer
+2025,Deal Hunter
+2026,Casual Browser
+2027,Casual Browser
+2028,Casual Browser
+2029,Category Explorer
+2030,Routine Replenisher
+2031,Routine Replenisher
+2032,Routine Replenisher
+2033,Category Explorer
+2034,Category Explorer
+2035,Routine Replenisher
+2036,Casual Browser
+2037,Routine Replenisher
+2038,Deal Hunter
+2039,Lapsed / Winback
+2040,Deal Hunter
+2041,Deal Hunter
+2042,Casual Browser
+2043,Routine Replenisher
+2044,Casual Browser
+2045,Casual Browser
+2046,Casual Browser
+2047,Routine Replenisher
+2048,Routine Replenisher
+2049,Routine Replenisher
+2050,Reviewer / Researcher
+2051,Deal Hunter
+2052,Casual Browser
+2053,Deal Hunter
+2054,Deal Hunter
+2055,Casual Browser
+2056,Reviewer / Researcher
+2057,Deal Hunter
+2058,Routine Replenisher
+2059,Deal Hunter
+2060,Deal Hunter
+2061,Category Explorer
+2062,Casual Browser
+2063,Lapsed / Winback
+2064,Category Explorer
+2065,Category Explorer
+2066,Routine Replenisher
+2067,Routine Replenisher
+2068,Casual Browser
+2069,Routine Replenisher
+2070,Deal Hunter
+2071,Deal Hunter
+2072,Deal Hunter
+2073,Deal Hunter
+2074,Casual Browser
+2075,Reviewer / Researcher
+2076,Casual Browser
+2077,Category Explorer
+2078,Deal Hunter
+2079,Category Explorer
+2080,Casual Browser
+2081,Reviewer / Researcher
+2082,Routine Replenisher
+2083,Casual Browser
+2084,Deal Hunter
+2085,Premium Power Shopper
+2086,Casual Browser
+2087,Category Explorer
+2088,Casual Browser
+2089,Ingredient-Conscious
+2090,Lapsed / Winback
+2091,Casual Browser
+2092,Routine Replenisher
+2093,Ingredient-Conscious
+2094,Deal Hunter
+2095,Category Explorer
+2096,Casual Browser
+2097,Category Explorer
+2098,Premium Power Shopper
+2099,Category Explorer
+2100,Routine Replenisher
+2101,Premium Power Shopper
+2102,Deal Hunter
+2103,Casual Browser
+2104,Deal Hunter
+2105,Casual Browser
+2106,Deal Hunter
+2107,Reviewer / Researcher
+2108,Casual Browser
+2109,Deal Hunter
+2110,Premium Power Shopper
+2111,Deal Hunter
+2112,Category Explorer
+2113,Deal Hunter
+2114,Deal Hunter
+2115,Casual Browser
+2116,Casual Browser
+2117,Routine Replenisher
+2118,Deal Hunter
+2119,Deal Hunter
+2120,Casual Browser
+2121,Ingredient-Conscious
+2122,Routine Replenisher
+2123,Category Explorer
+2124,Deal Hunter
+2125,Routine Replenisher
+2126,Category Explorer
+2127,Ingredient-Conscious
+2128,Category Explorer
+2129,Deal Hunter
+2130,Casual Browser
+2131,Premium Power Shopper
+2132,Routine Replenisher
+2133,Category Explorer
+2134,Casual Browser
+2135,Deal Hunter
+2136,Lapsed / Winback
+2137,Category Explorer
+2138,Ingredient-Conscious
+2139,Deal Hunter
+2140,Routine Replenisher
+2141,Deal Hunter
+2142,Deal Hunter
+2143,Category Explorer
+2144,Category Explorer
+2145,Casual Browser
+2146,Casual Browser
+2147,Routine Replenisher
+2148,Casual Browser
+2149,Deal Hunter
+2150,Ingredient-Conscious
+2151,Category Explorer
+2152,Casual Browser
+2153,Casual Browser
+2154,Deal Hunter
+2155,Routine Replenisher
+2156,Category Explorer
+2157,Deal Hunter
+2158,Category Explorer
+2159,Category Explorer
+2160,Category Explorer
+2161,Routine Replenisher
+2162,Ingredient-Conscious
+2163,Casual Browser
+2164,Routine Replenisher
+2165,Casual Browser
+2166,Reviewer / Researcher
+2167,Casual Browser
+2168,Reviewer / Researcher
+2169,Ingredient-Conscious
+2170,Lapsed / Winback
+2171,Category Explorer
+2172,Routine Replenisher
+2173,Premium Power Shopper
+2174,Routine Replenisher
+2175,Casual Browser
+2176,Category Explorer
+2177,Category Explorer
+2178,Premium Power Shopper
+2179,Deal Hunter
+2180,Casual Browser
+2181,Ingredient-Conscious
+2182,Category Explorer
+2183,Premium Power Shopper
+2184,Deal Hunter
+2185,Casual Browser
+2186,Category Explorer
+2187,Category Explorer
+2188,Category Explorer
+2189,Category Explorer
+2190,Category Explorer
+2191,Routine Replenisher
+2192,Casual Browser
+2193,Category Explorer
+2194,Casual Browser
+2195,Reviewer / Researcher
+2196,Deal Hunter
+2197,Routine Replenisher
+2198,Category Explorer
+2199,Deal Hunter
+2200,Reviewer / Researcher
+2201,Casual Browser
+2202,Deal Hunter
+2203,Casual Browser
+2204,Category Explorer
+2205,Deal Hunter
+2206,Casual Browser
+2207,Reviewer / Researcher
+2208,Casual Browser
+2209,Category Explorer
+2210,Routine Replenisher
+2211,Routine Replenisher
+2212,Routine Replenisher
+2213,Deal Hunter
+2214,Deal Hunter
+2215,Ingredient-Conscious
+2216,Casual Browser
+2217,Routine Replenisher
+2218,Routine Replenisher
+2219,Deal Hunter
+2220,Casual Browser
+2221,Routine Replenisher
+2222,Casual Browser
+2223,Ingredient-Conscious
+2224,Lapsed / Winback
+2225,Casual Browser
+2226,Deal Hunter
+2227,Casual Browser
+2228,Casual Browser
+2229,Routine Replenisher
+2230,Category Explorer
+2231,Routine Replenisher
+2232,Routine Replenisher
+2233,Routine Replenisher
+2234,Lapsed / Winback
+2235,Routine Replenisher
+2236,Routine Replenisher
+2237,Routine Replenisher
+2238,Routine Replenisher
+2239,Casual Browser
+2240,Routine Replenisher
+2241,Routine Replenisher
+2242,Deal Hunter
+2243,Category Explorer
+2244,Casual Browser
+2245,Routine Replenisher
+2246,Deal Hunter
+2247,Lapsed / Winback
+2248,Deal Hunter
+2249,Deal Hunter
+2250,Deal Hunter
+2251,Casual Browser
+2252,Deal Hunter
+2253,Deal Hunter
+2254,Category Explorer
+2255,Routine Replenisher
+2256,Routine Replenisher
+2257,Ingredient-Conscious
+2258,Casual Browser
+2259,Category Explorer
+2260,Casual Browser
+2261,Category Explorer
+2262,Casual Browser
+2263,Routine Replenisher
+2264,Ingredient-Conscious
+2265,Category Explorer
+2266,Casual Browser
+2267,Routine Replenisher
+2268,Routine Replenisher
+2269,Casual Browser
+2270,Routine Replenisher
+2271,Category Explorer
+2272,Casual Browser
+2273,Ingredient-Conscious
+2274,Deal Hunter
+2275,Category Explorer
+2276,Casual Browser
+2277,Deal Hunter
+2278,Routine Replenisher
+2279,Reviewer / Researcher
+2280,Casual Browser
+2281,Ingredient-Conscious
+2282,Casual Browser
+2283,Premium Power Shopper
+2284,Routine Replenisher
+2285,Casual Browser
+2286,Category Explorer
+2287,Ingredient-Conscious
+2288,Ingredient-Conscious
+2289,Deal Hunter
+2290,Casual Browser
+2291,Casual Browser
+2292,Deal Hunter
+2293,Ingredient-Conscious
+2294,Deal Hunter
+2295,Reviewer / Researcher
+2296,Casual Browser
+2297,Casual Browser
+2298,Lapsed / Winback
+2299,Casual Browser
+2300,Lapsed / Winback
+2301,Lapsed / Winback
+2302,Casual Browser
+2303,Casual Browser
+2304,Routine Replenisher
+2305,Lapsed / Winback
+2306,Casual Browser
+2307,Casual Browser
+2308,Routine Replenisher
+2309,Premium Power Shopper
+2310,Routine Replenisher
+2311,Casual Browser
+2312,Category Explorer
+2313,Casual Browser
+2314,Ingredient-Conscious
+2315,Category Explorer
+2316,Category Explorer
+2317,Routine Replenisher
+2318,Category Explorer
+2319,Routine Replenisher
+2320,Deal Hunter
+2321,Category Explorer
+2322,Ingredient-Conscious
+2323,Casual Browser
+2324,Deal Hunter
+2325,Category Explorer
+2326,Deal Hunter
+2327,Category Explorer
+2328,Deal Hunter
+2329,Casual Browser
+2330,Lapsed / Winback
+2331,Routine Replenisher
+2332,Reviewer / Researcher
+2333,Category Explorer
+2334,Deal Hunter
+2335,Category Explorer
+2336,Routine Replenisher
+2337,Casual Browser
+2338,Reviewer / Researcher
+2339,Ingredient-Conscious
+2340,Routine Replenisher
+2341,Category Explorer
+2342,Category Explorer
+2343,Reviewer / Researcher
+2344,Deal Hunter
+2345,Routine Replenisher
+2346,Reviewer / Researcher
+2347,Reviewer / Researcher
+2348,Category Explorer
+2349,Deal Hunter
+2350,Category Explorer
+2351,Casual Browser
+2352,Casual Browser
+2353,Category Explorer
+2354,Deal Hunter
+2355,Deal Hunter
+2356,Casual Browser
+2357,Casual Browser
+2358,Casual Browser
+2359,Ingredient-Conscious
+2360,Category Explorer
+2361,Category Explorer
+2362,Casual Browser
+2363,Category Explorer
+2364,Lapsed / Winback
+2365,Reviewer / Researcher
+2366,Casual Browser
+2367,Casual Browser
+2368,Category Explorer
+2369,Lapsed / Winback
+2370,Category Explorer
+2371,Category Explorer
+2372,Routine Replenisher
+2373,Deal Hunter
+2374,Casual Browser
+2375,Category Explorer
+2376,Routine Replenisher
+2377,Casual Browser
+2378,Casual Browser
+2379,Category Explorer
+2380,Category Explorer
+2381,Deal Hunter
+2382,Category Explorer
+2383,Category Explorer
+2384,Ingredient-Conscious
+2385,Deal Hunter
+2386,Deal Hunter
+2387,Casual Browser
+2388,Routine Replenisher
+2389,Category Explorer
+2390,Category Explorer
+2391,Category Explorer
+2392,Deal Hunter
+2393,Casual Browser
+2394,Casual Browser
+2395,Ingredient-Conscious
+2396,Category Explorer
+2397,Casual Browser
+2398,Lapsed / Winback
+2399,Casual Browser
+2400,Category Explorer
+2401,Deal Hunter
+2402,Deal Hunter
+2403,Routine Replenisher
+2404,Routine Replenisher
+2405,Routine Replenisher
+2406,Ingredient-Conscious
+2407,Reviewer / Researcher
+2408,Routine Replenisher
+2409,Category Explorer
+2410,Category Explorer
+2411,Category Explorer
+2412,Ingredient-Conscious
+2413,Routine Replenisher
+2414,Routine Replenisher
+2415,Deal Hunter
+2416,Ingredient-Conscious
+2417,Casual Browser
+2418,Deal Hunter
+2419,Category Explorer
+2420,Premium Power Shopper
+2421,Casual Browser
+2422,Reviewer / Researcher
+2423,Routine Replenisher
+2424,Casual Browser
+2425,Reviewer / Researcher
+2426,Deal Hunter
+2427,Casual Browser
+2428,Casual Browser
+2429,Deal Hunter
+2430,Category Explorer
+2431,Ingredient-Conscious
+2432,Casual Browser
+2433,Category Explorer
+2434,Ingredient-Conscious
+2435,Deal Hunter
+2436,Casual Browser
+2437,Deal Hunter
+2438,Routine Replenisher
+2439,Category Explorer
+2440,Deal Hunter
+2441,Routine Replenisher
+2442,Ingredient-Conscious
+2443,Routine Replenisher
+2444,Reviewer / Researcher
+2445,Casual Browser
+2446,Deal Hunter
+2447,Category Explorer
+2448,Casual Browser
+2449,Routine Replenisher
+2450,Casual Browser
+2451,Routine Replenisher
+2452,Routine Replenisher
+2453,Deal Hunter
+2454,Category Explorer
+2455,Deal Hunter
+2456,Casual Browser
+2457,Casual Browser
+2458,Routine Replenisher
+2459,Premium Power Shopper
+2460,Routine Replenisher
+2461,Deal Hunter
+2462,Deal Hunter
+2463,Category Explorer
+2464,Routine Replenisher
+2465,Deal Hunter
+2466,Deal Hunter
+2467,Casual Browser
+2468,Reviewer / Researcher
+2469,Deal Hunter
+2470,Lapsed / Winback
+2471,Routine Replenisher
+2472,Ingredient-Conscious
+2473,Routine Replenisher
+2474,Routine Replenisher
+2475,Routine Replenisher
+2476,Routine Replenisher
+2477,Lapsed / Winback
+2478,Casual Browser
+2479,Casual Browser
+2480,Deal Hunter
+2481,Casual Browser
+2482,Routine Replenisher
+2483,Ingredient-Conscious
+2484,Deal Hunter
+2485,Deal Hunter
+2486,Routine Replenisher
+2487,Ingredient-Conscious
+2488,Reviewer / Researcher
+2489,Casual Browser
+2490,Deal Hunter
+2491,Casual Browser
+2492,Casual Browser
+2493,Category Explorer
+2494,Category Explorer
+2495,Category Explorer
+2496,Routine Replenisher
+2497,Category Explorer
+2498,Casual Browser
+2499,Casual Browser
+2500,Ingredient-Conscious
