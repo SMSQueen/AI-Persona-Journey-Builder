@@ -21,3 +21,7 @@ Swap in your real exports after identity stitching (customer_id / email hash).
 - Add “what-if” simulator (channel/cadence changes → predicted impact)
 - Add cohort KPIs by persona (repeat rate, churn risk, promo dependency)
 - Add per-persona creative generator (subject lines, SMS copy, offers)
+
+
+## What-If Simulator
+Test channel, cadence, incentives, and personalization strength to estimate directional impact on engagement, conversion, fatigue, and opt-out risk.
